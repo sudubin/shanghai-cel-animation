@@ -1,0 +1,4 @@
+interface:
+  display_name: "上美厂经典二维动画"
+  short_description: "以传统墨线、矿物配色与赛璐珞平涂，制作经典二维动画角色并打磨通用提示词"
+  default_prompt: "使用 $shanghai-cel-animation，按上传造型生成一张经典二维动画角色图，并给出可复用提示词。"
